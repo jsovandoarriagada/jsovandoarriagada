@@ -1,5 +1,5 @@
 ![](https://github.com/jsovandoarriagada/jsovandoarriagada/blob/main/my-workspace.png)
-<h1 align="center">Hi 👋, I'm José Simón Ovando Arriagada</h1>
+<h1 align="center">Hi, I'm José Simón Ovando Arriagada! 👋</h1>
 <h3 align="center">A passionate Frontend Developer from Chile 🧡</h3>
 <hr/>
 <p>
