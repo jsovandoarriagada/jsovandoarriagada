@@ -1,6 +1,6 @@
 ![](https://github.com/jsovandoarriagada/jsovandoarriagada/blob/main/my-workspace.png)
-<h2 align="center">Hi, I'm José Simón Ovando Arriagada! 👋</h1>
-<h3 align="center">A passionate Frontend Developer from Chile</h3>
+<h1 align="center">👋 Hi, I'm José Simón Ovando Arriagada!</h1>
+<h3 align="center">A passionate Frontend Developer from Chile ❤️</h3>
 <hr/>
 <p>
 I was born in Lund, Sweden, and raised in Santiago de Chile. Since I was little I was interested in the Internet and web pages, it was the time of the "webmaster". I never learned to program, but I played a lot with Dreamweaver and some outdated programs, like Image Composer and FrontPage, with which I made pages of my favorite video games of the time.
