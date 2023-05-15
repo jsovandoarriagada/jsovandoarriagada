@@ -8,7 +8,7 @@ I was born in Lund, Sweden, and raised in Santiago de Chile. Since I was little 
 
 In 2021 I decided to study programming in a self-taught way. In 2022 I studied Coderhouse's Frontend React Development career, being in the Top 10 of best students in the 3 courses that comprise it.
 
-Currently I continue studying technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React, Git and Firebase, on platforms such as LinkedIn Learning, Udemy, freeCodeCamp, YouTube and recently in the Oracle Next Education program by Oracle and Alura Latam.
+Currently I continue studying technologies such as HTML, CSS, SASS, Tailwind, JavaScript, React, Git and Firebase, on platforms such as LinkedIn Learning, Udemy, freeCodeCamp, YouTube and recently in the Oracle Next Education program by Oracle and Alura Latam.
 </p>
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
