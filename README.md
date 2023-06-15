@@ -1,4 +1,4 @@
-![](https://github.com/jsovandoarriagada/jsovandoarriagada/blob/main/my-workspace.png)
+![](https://github.com/jsovandoarriagada/jsovandoarriagada/blob/main/cover.png)
 <h2 align="center">Hi, I'm José Simón Ovando Arriagada!👋</h2>
 <h3 align="center">A passionate Frontend Developer from Chile ❤️</h3>
 <hr/>
