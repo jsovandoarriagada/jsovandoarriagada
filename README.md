@@ -1,10 +1,12 @@
 <h2 align="center">Hi, I'm José Simón Ovando Arriagada!👋</h2>
 <p>
-I was born in Lund, Sweden, and raised in Santiago de Chile. Since I was little I was interested in the Internet and web pages, it was the time of the "webmaster". I never learned to program, but I played a lot with Dreamweaver and some outdated programs, like Image Composer and FrontPage, with which I made pages of my favorite video games of the time.
+ I was born in Lund, Sweden, and raised in Santiago de Chile. Since I was little I was
+            interested in the Internet and web pages, it was the time of the "webmaster". I never
+            learned to program, but I played a lot with Dreamweaver and some outdated programs, like
+            Image Composer and FrontPage, with which I made pages of my favorite video games of the
+            time.
 
-In 2021 I decided to study programming in a self-taught way. In 2022 I studied Coderhouse's Frontend React Development career, being in the Top 10 of best students in the 3 courses that comprise it.
-
-Currently I continue studying technologies such as HTML, CSS, SASS, Tailwind, JavaScript, React, Git and Firebase, on platforms such as LinkedIn Learning, Udemy, freeCodeCamp, YouTube and recently in the Oracle Next Education program by Oracle and Alura Latam.
+In 2022 I studied Coderhouse's Frontend React Development career, being in the Top 10 of best students in the 3 courses that comprise it. Currently I continue studying in the Oracle Next Education program by Oracle and Alura Latam.
 </p>
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
