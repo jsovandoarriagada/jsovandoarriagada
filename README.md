@@ -1,13 +1,11 @@
-<h2 align="center">Hi, I'm José Simón Ovando Arriagada!👋</h2>
 <p>
- I was born in Lund, Sweden, and raised in Santiago de Chile. Since I was little I was
-            interested in the Internet and web pages, it was the time of the "webmaster". I never
-            learned to program, but I played a lot with Dreamweaver and some outdated programs, like
-            Image Composer and FrontPage, with which I made pages of my favorite video games of the
-            time.
+👋
 
-In 2022 I studied Coderhouse's Frontend React Development career, being in the Top 10 of best students in the 3 courses that comprise it. Currently I continue studying in the Oracle Next Education program by Oracle and Alura Latam.
+Hello, my name is José Simón Ovando Arriagada!
+
+I am a sociable, proactive, organized, persevering and curious person. I enjoy studying and learning new technologies.
+
+In 2022 I studied Frontend React Development at Coderhouse, finishing in the Top 10 of best students in the 3 courses that comprise it. In 2023 I completed the ONE program from Oracle and Alura Latam, and started working as a Freelance Web Developer, developing as my first job a landing page for the "Festival de Artes Verbales Barrabase", a unique event that fuses rap with written battles and freestyle, whose first edition took place on January 21, 2024, in Santiago, Chile.
+
+I am currently focused on studying React, UI Design and Figma, self-taught.
 </p>
-<hr/>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></p>
